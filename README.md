@@ -1,2 +1,2 @@
 # Tutedude
-Python Assignments by tutedude
+Python Assignments 1 by tutedude
